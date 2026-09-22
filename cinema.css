@@ -15,7 +15,7 @@ body{background:var(--night);color:#e8e5df}
 header{border-color:#ffffff30;color:#f4f1eb;background:linear-gradient(180deg,#07090de0,transparent)}
 .brand span{color:var(--gold)}
 .edition,.social{color:#d0d3d8}
-.language-control{background:#10151de8;color:#e8e5df;border-color:#ffffff35;box-shadow:0 4px 22px #0006;backdrop-filter:blur(12px)}
+.language-control{position:absolute;background:#10151de8;color:#e8e5df;border-color:#ffffff35;box-shadow:0 4px 22px #0006;backdrop-filter:blur(12px)}
 .language-control select{color:inherit}
 .language-control select option{background:#10151d;color:#fff}
 .cinema{height:250svh;min-height:1250px;background:var(--night)}
